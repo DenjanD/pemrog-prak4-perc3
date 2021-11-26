@@ -1,0 +1,17 @@
+C:\Users\DenjanD\source\repos\P4_3_1204039\P4_3_1204039\bin\Debug\net6.0-windows\P4_3_1204039.exe
+C:\Users\DenjanD\source\repos\P4_3_1204039\P4_3_1204039\bin\Debug\net6.0-windows\P4_3_1204039.deps.json
+C:\Users\DenjanD\source\repos\P4_3_1204039\P4_3_1204039\bin\Debug\net6.0-windows\P4_3_1204039.runtimeconfig.json
+C:\Users\DenjanD\source\repos\P4_3_1204039\P4_3_1204039\bin\Debug\net6.0-windows\P4_3_1204039.dll
+C:\Users\DenjanD\source\repos\P4_3_1204039\P4_3_1204039\bin\Debug\net6.0-windows\ref\P4_3_1204039.dll
+C:\Users\DenjanD\source\repos\P4_3_1204039\P4_3_1204039\bin\Debug\net6.0-windows\P4_3_1204039.pdb
+C:\Users\DenjanD\source\repos\P4_3_1204039\P4_3_1204039\obj\Debug\net6.0-windows\P4_3_1204039.csproj.AssemblyReference.cache
+C:\Users\DenjanD\source\repos\P4_3_1204039\P4_3_1204039\obj\Debug\net6.0-windows\P4_3_1204039.Form1.resources
+C:\Users\DenjanD\source\repos\P4_3_1204039\P4_3_1204039\obj\Debug\net6.0-windows\P4_3_1204039.csproj.GenerateResource.cache
+C:\Users\DenjanD\source\repos\P4_3_1204039\P4_3_1204039\obj\Debug\net6.0-windows\P4_3_1204039.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DenjanD\source\repos\P4_3_1204039\P4_3_1204039\obj\Debug\net6.0-windows\P4_3_1204039.AssemblyInfoInputs.cache
+C:\Users\DenjanD\source\repos\P4_3_1204039\P4_3_1204039\obj\Debug\net6.0-windows\P4_3_1204039.AssemblyInfo.cs
+C:\Users\DenjanD\source\repos\P4_3_1204039\P4_3_1204039\obj\Debug\net6.0-windows\P4_3_1204039.csproj.CoreCompileInputs.cache
+C:\Users\DenjanD\source\repos\P4_3_1204039\P4_3_1204039\obj\Debug\net6.0-windows\P4_3_1204039.dll
+C:\Users\DenjanD\source\repos\P4_3_1204039\P4_3_1204039\obj\Debug\net6.0-windows\ref\P4_3_1204039.dll
+C:\Users\DenjanD\source\repos\P4_3_1204039\P4_3_1204039\obj\Debug\net6.0-windows\P4_3_1204039.pdb
+C:\Users\DenjanD\source\repos\P4_3_1204039\P4_3_1204039\obj\Debug\net6.0-windows\P4_3_1204039.genruntimeconfig.cache
